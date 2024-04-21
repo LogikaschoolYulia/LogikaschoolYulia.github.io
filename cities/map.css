@@ -1,0 +1,48 @@
+body{
+    background-image: url(images/mapa.webp);
+    background-repeat: no-repeat;
+    background-position:top;
+}
+
+a { 
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none; 
+    color: rgb(0, 0, 0); 
+    background-color: rgba(102, 51, 153, 0); 
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 7px; 
+} 
+ 
+a:hover { 
+    background-color: rgba(255, 255, 255, 0.452); 
+    color: rgb(0, 0, 0); 
+} 
+
+.kyiv {
+    margin-left: 45%;
+}
+
+.herson {
+    margin-left: 58%;
+    margin-top: 16%;
+}
+
+.odessa {
+    margin-left: 45%;
+    margin-top: -1%;
+}
+
+.gitomir {
+    margin-left: 35%;
+    margin-top: 7%;
+}
+
+.lviv {
+    margin-left: 19%;
+    margin-top: -3%;
+}
+
+.harkiv {
+    margin-left: 69%;
+}

@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://prolviv.com/wp-content/uploads/2023/05/lviv_sunrises_and_sunsets.jpg");
+    background-size: cover;
+}
+
+h2 { 
+    padding-left: 0px; 
+    padding-right: 50px; 
+     
+} 
+
+a { 
+    padding-left: 5px;
+    padding-right: 5px;
+    text-decoration: none; 
+    color: rgb(0, 0, 0); 
+    background-color: rgba(102, 51, 153, 0); 
+    border: 2px rgb(0, 0, 0) solid;
+    border-radius: 7px; 
+} 
+ 
+a:hover { 
+    background-color: rgba(255, 255, 255, 0.452); 
+    color: rgb(0, 0, 0); 
+} 
